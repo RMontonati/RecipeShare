@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nome">Nome</string>
+    <string name="inserisci_il_tuo_nome">Inserisci il tuo nome</string>
+    <string name="condividi_le_tue_ricette">Condividi le tue ricette!</string>
+    <string name="recipeshare">RecipeShare</string>
+    <string name="descriprion_placeholder">descriprion placeholder</string>
+    <string name="dish_title">dish title</string>
+    <string name="password" />
+    <string name="inserisci_le_tue_credenziali">Inserisci le tue credenziali</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="categorie">Categorie</string>
+</resources>

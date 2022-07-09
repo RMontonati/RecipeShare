@@ -10,10 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RecipeShare">
         <activity
-            android:name=".HomeActivity"
+            android:name=".RecipeActivity"
             android:exported="false" />
         <activity
+            android:name=".SearchActivity"
+            android:exported="true"
+            android:parentActivityName=".HomeActivity" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
+            android:windowSoftInputMode="adjustResize"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

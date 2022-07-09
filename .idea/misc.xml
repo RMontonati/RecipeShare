@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Riccardo/AndroidStudioProjects/RecipeShare/app/src/main/res/layout/activity_home.xml" value="0.25" />
         <entry key="..\:/Users/Riccardo/AndroidStudioProjects/RecipeShare/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Riccardo/AndroidStudioProjects/RecipeShare/app/src/main/res/layout/activity_main2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Riccardo/AndroidStudioProjects/RecipeShare/app/src/main/res/layout/activity_recipe.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Riccardo/AndroidStudioProjects/RecipeShare/app/src/main/res/layout/activity_search.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/Riccardo/AndroidStudioProjects/RecipeShare/app/src/main/res/layout/home_elements.xml" value="0.33" />
+        <entry key="..\:/Users/Riccardo/AndroidStudioProjects/RecipeShare/app/src/main/res/layout/home_sub_elements.xml" value="0.22" />
+        <entry key="..\:/Users/Riccardo/AndroidStudioProjects/RecipeShare/app/src/main/res/layout/list_item.xml" value="0.27291666666666664" />
       </map>
     </option>
   </component>
